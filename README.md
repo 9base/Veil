@@ -1,3 +1,9 @@
+> **9base status: Historical Downstream.** Historical Downstream of [Veil-Framework/Veil](https://github.com/Veil-Framework/Veil). The retained `pardus-patch` branch records Süleyman Poyraz’s 2021 Pardus installation-support changes. This downstream is no longer actively maintained; framework authorship and the inherited instructions remain upstream.
+>
+> Documentation reconstructed from repository history on 8 October 2026. See [9base provenance and patch notes](9BASE.md).
+
+---
+
 # Veil
 
 ![Veil Logo](https://www.veil-framework.com/wp-content/uploads/2013/12/cropped-Veil-Symbol2.png "Veil Logo")
